@@ -41,4 +41,4 @@ We learnt the basic hardware and pin configurations of Arduino UNO and how it ca
 ------------
 
 ### The detailed Final Project Reoprt can be found attached below:
-[Final Project Report: Creating a Burglar alarm system using PIR sensor and Arduino UNO](https://github.com/Bhaktiraut02/Burglar-Alert-system-using-PIR-sensor-Arduino-UNO-/blob/main/Bhakti%20Raut_MiniProject_IOT_PIR%20Sensor.pdf)
+[Final Project Report: Creating a Burglar alarm system using PIR sensor and Arduino UNO][embed]http://example.com/file.pdf[/embed]
