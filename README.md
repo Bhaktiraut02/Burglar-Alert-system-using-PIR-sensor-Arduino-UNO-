@@ -19,7 +19,7 @@ The Arduino platform has become quite popular with people just starting out with
 not need a separate piece of hardware (called a programmer) in order to load new code onto the board -- you can simply use a USB cable. Additionally, the Arduino IDE uses a simplified
 version of C++, making it easier to learn to program. Finally, Arduino provides a standard form factor that breaks out the functions of the micro-controller into a more accessible
 package.
-<img align="center" alt="GIF" src="https://github.com/Bhaktiraut02/Burglar-Alert-system-using-PIR-sensor-Arduino-UNO-/blob/main/uno.png" width="600" height= "400"/>
+<img align="center" alt="GIF" src="https://github.com/Bhaktiraut02/Burglar-Alert-system-using-PIR-sensor-Arduino-UNO-/blob/main/uno2.png" width="800" height= "700"/>
 
 ------------
 
