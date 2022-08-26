@@ -23,4 +23,6 @@ package.
 
 ### The project has been completed and simulated over Tinkercad:
 The connections and simualation for the same are as follows:
-<img align="center" alt="GIF" src="https://github.com/Bhaktiraut02/Burglar-Alert-system-using-PIR-sensor-Arduino-UNO-/blob/main/uno.png" />
+
+<img align="center" alt="GIF" src="https://github.com/Bhaktiraut02/Burglar-Alert-system-using-PIR-sensor-Arduino-UNO-/blob/main/2.png" />
+<img align="center" alt="GIF" src="" />
