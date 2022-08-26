@@ -24,5 +24,9 @@ package.
 ### The project has been completed and simulated over Tinkercad:
 The connections and simualation for the same are as follows:
 
+<img align="center" alt="GIF" src="https://github.com/Bhaktiraut02/Burglar-Alert-system-using-PIR-sensor-Arduino-UNO-/blob/main/1.png" />
 <img align="center" alt="GIF" src="https://github.com/Bhaktiraut02/Burglar-Alert-system-using-PIR-sensor-Arduino-UNO-/blob/main/2.png" />
+
+If the motion is detected within the range of the PIR sensor those fluctuations in IR will be detected and then a HIGH will be sent to the sensor and the buzzer will be triggered, alarming us of the unnecessary movement in restricted areas.
+The code for the simualtion to work successfully is developed over Arduino IDE
 <img align="center" alt="GIF" src="" />
