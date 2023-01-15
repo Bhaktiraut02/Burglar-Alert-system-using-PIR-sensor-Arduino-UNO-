@@ -11,7 +11,8 @@ The project problem statement is **Create a burglar alarm – detect motion of a
 This radiation is not visible to human eyes. The PIR sensor is designed to detect this Infrared radiation. A PIR motion sensor has a pair of pyro electric sensors to detect heat energy from the
 surrounding environment. It helps generate an electrical signal when they are heated or cooled.
 
-<img align="center" alt="GIF" src="https://github.com/Bhaktiraut02/Burglar-Alert-system-using-PIR-sensor-Arduino-UNO-/blob/main/pir.jpg" width="300"/> <img align="center" alt="GIF" src="https://github.com/Bhaktiraut02/Burglar-Alert-system-using-PIR-sensor-Arduino-UNO-/blob/main/pir2.jpg" width="500"/>
+<img align="center" alt="GIF" src="https://github.com/Bhaktiraut02/Burglar-Alert-system-using-PIR-sensor-Arduino-UNO-/blob/main/pir.jpg" width="300"/> 
+<img align="center" alt="GIF" src="https://github.com/Bhaktiraut02/Burglar-Alert-system-using-PIR-sensor-Arduino-UNO-/blob/main/pir2.jpg" width="500"/>
 
 - **Arduino UNO:** Arduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a
 piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.
